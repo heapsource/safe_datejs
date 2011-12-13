@@ -11,7 +11,7 @@
         "url": "https://github.com/firebaseco/safe_datejs"
     },
     "bugs": {
-		"email": "firejs@firebase.co",
+		"email": "npm@firebase.co",
         "url": "https://github.com/firebaseco/safe_datejs/issues"
     },
     "keywords": ["safe", "date.js", "datejs", "date"],
